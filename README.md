@@ -1,0 +1,1 @@
+![traccia dell'esercizio](screenshot_blocks_720.png "Titolo opzionale")
