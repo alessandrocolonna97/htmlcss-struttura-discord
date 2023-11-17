@@ -4,3 +4,35 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*utils*/
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.main-header{
+    min-height: 100px;
+    background-color:lightblue;
+    display: flex;
+    justify-content: center;
+}
+.second-header-left{
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid black;
+    align-self:center;
+}
+.second-header-middle{
+    width: 400px;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid black;
+    align-self:center;
+}
+.second-header-right{
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid black;
+    align-self:center;
+}
