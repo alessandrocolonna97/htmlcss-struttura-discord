@@ -17,22 +17,35 @@
 }
 .second-header-left{
     width: 200px;
-    height: 50px;
+   min-height: 50px;
     background-color: orange;
     border: 1px solid black;
     align-self:center;
 }
 .second-header-middle{
     width: 400px;
-    height: 50px;
+    min-height: 50px;
     background-color: orange;
     border: 1px solid black;
     align-self:center;
 }
 .second-header-right{
     width: 200px;
-    height: 50px;
+    min-height: 50px;
     background-color: orange;
     border: 1px solid black;
     align-self:center;
+}
+.principal{
+    min-height: 400px;
+    background-color: darkblue;
+    display: flex;
+    justify-content:center;
+
+}
+.principal-inside{
+    width: 600px;
+    min-height: 300px;
+    background-color: palevioletred;
+    align-self: center;
 }
