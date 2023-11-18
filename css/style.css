@@ -94,3 +94,17 @@ background-color: aquamarine;
 border: 1px dashed black;
 margin: 40px 0;
 }
+.last-bkg{
+    min-height: 100px;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    border: 1px dashed white;
+}
+.footer-bkg{
+    width: 1000px;
+    min-height: 75px;
+    background-color: aquamarine;
+   align-self:flex-end;
+  
+}
